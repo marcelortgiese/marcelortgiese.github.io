@@ -5,19 +5,19 @@ title: "Contact"
 :::: {.columns}
 
 ::: {.column width="50pt"}
-Email
-Office
-Address
+**Email:**
+**Office:**
+**Address:**
 :::
 
-::: {.column }
-m.ortgiese { at } bath.ac.uk 
-4W 3.40 
-Department of Mathematical Sciences 
-University of Bath 
-Claverton Down 
-Bath
-BA2 7AY
+::: {.column}
+m.ortgiese { at } bath.ac.uk\
+4W 3.40\
+Department of Mathematical Sciences\ 
+University of Bath\ 
+Claverton Down\ 
+Bath\
+BA2 7AY\
 United Kingdom 
 :::
 
