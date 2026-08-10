@@ -5,8 +5,8 @@ title: "Contact"
 :::: {.columns style="column-gap: 2rem;"}
 
 ::: {.column width="80pt"}
-**Email:**
-**Office:**
+**Email:**\
+**Office:**\
 **Address:**
 :::
 
