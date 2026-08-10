@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "Contact"
 ---
 
-About this site.
+<b>Email:</b> m.ortgiese { at } bath.ac.uk
+<b>Office: </b></td><td colspan="5"> 4W 3.40>
+<b>Address:</b>
+Department of Mathematical Sciences
+University of Bath
+Claverton Down
+Bath 
+BA2 7AY
+United Kingdom
