@@ -180,3 +180,65 @@ PDF</a></li>
 My articles on: <a href="https://arxiv.org/a/ortgiese_m_1.html">arxiv</a>, <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=835679">MathSciNet</a>, <a href="https://scholar.google.co.uk/citations?hl=en&user=Uj2HxdAAAAAJ">Google Scholar</a>, <a href="https://orcid.org/0000-0001-7803-8584">Orcid</a>, <a href="https://researchportal.bath.ac.uk/en/persons/marcel-ortgiese/publications/">University of Bath researchportal</a>.
 
 
+
+<h2 id="people">Research Group</h2>
+
+<b> Current members:</b><br><br>
+
+PhD students
+<ul>
+<li>Bill Nunn, since Sep 2024, jointly with <a href="https://people.bath.ac.uk/ma3tcr/">Tim Rogers</a>, funded by <a href="http://www.bath.ac.uk/math-sci/postgraduate/samba/">SAMBa</a>.</li>    
+</ul>
+
+Postdocs
+<ul>
+<li>Vianney Brouard. Oct 2024 - Funded by the EPSRC project "Interplay between geometry and randomness in fitness landscapes for expanding populations"
+    (with CoI <a href="https://people.bath.ac.uk/mir20">Matt Roberts</a>).
+</li>
+</ul>
+
+<b>Former members</b><br><br>
+PhD students
+<ul>
+<li><a href="https://sites.google.com/view/jldom/">Jo&atilde;o Luiz De Oliveira Madeira</a>, Sep 2022 - Aug 2025, jointly with <a href="https://people.bath.ac.uk/sp2355/">Sarah Penington</a>, funded by <a href="http://www.bath.ac.uk/math-sci/postgraduate/samba/">SAMBa</a>.</li>
+<li>Carmen van-de-l'Isle, Sep 2021 - Jul 2025, jointly with <a href="https://people.bath.ac.uk/sp2355/">Sarah Penington</a>, funded by <a href="http://www.bath.ac.uk/math-sci/postgraduate/samba/">SAMBa</a>.</li>
+<li>Thomas Bartos, Sep 2019 - Mar 2023, jointly with <a href="https://tiffanybtaylor.wordpress.com/">Tiffany Taylor</a>, funded by <a href="http://www.bath.ac.uk/math-sci/postgraduate/samba/">SAMBa</a>.</li>
+<li><a href="https://sites.google.com/view/natalia-cardona-tobon/home-page?authuser=0">Natalia Cardona Tobón</a>, March - August 2020, visiting from CIMAT. Joint supervision with <a href="http://sigma.iimas.unam.mx/sandra/">Sandra Palau</a> and <a href="https://www.cimat.mx/~jcpardo/">Juan Carlos Pardo Mill&aacute;n</a>. <i>Now Postdoc in G&ouml;ttingen.</i></li>
+<li><a href="https://sites.google.com/view/bas-lodewijks/home">Bas Lodewijks</a>, Sep 2017 - Aug 2021, <a href="https://arxiv.org/search/?searchtype=author&query=Lodewijks%2C+B">@arXiv</a>. <i>Now Postdoc in Lyon.</i></li>
+<li><a href="http://perso.ens-lyon.fr/john.fernley/">John Fernley</a>, Sep 2017 - Dec 2020, jointly with <a href="http://www.mi.uni-koeln.de/~moerters/">Peter M&ouml;rters</a>, funded by <a href="http://www.bath.ac.uk/math-sci/postgraduate/samba/">SAMBa</a>.<br>
+<i>Now Postdoc in Budapest.</i></li>
+</ul>
+
+Postdocs
+<ul>
+<li><a href="https://people.bath.ac.uk/sb2551/">Stefano Bruno</a>. April - Sep 2022. Now <i>Research Associate <a href="https://imibath.ac.uk/">IMI Bath</a></i>.
+<li><a href="http://www.math.uni-leipzig.de/~voellering/">Florian V&ouml;llering</a>, Jan 2016 - Dec 2018, funded by DFG SPP 1590 <a href="http://www.dfg-spp1590.de/abstracts.php#17">Probabilistic Structures in Evolution</a>. Now <i>Juniorprofessor Universit&auml;t Leipzig</i>.
+</li>
+</ul>
+
+
+
+<h2>Events</h2>
+
+Current events: 
+
+* [Workshop on Heavy-tailed phenomena in random discrete geometries](https://sites.google.com/view/htp-cologne-2027/) - Celebrating Peter M\"orters 60th birthday. 17 - 19 February 2027. University of Cologne.
+
+Past events: 
+
+* [Probability meets Biology 3](https://www.bath.ac.uk/events/probability-meets-biology-iii/), 6 - 9 July 2026, University of Bath. 
+* Workshop: <a href="http://bathspatial2017.wordpress.com">Spatial models in population genetics</a>, 06 - 08 September 2017, University of Bath.
+* Bath-Berlin summer school: <a href="https://www.math-berlin.de/academics/summer-schools/2017/randgraph">Probabilistic and statistical methods for networks</a>, 21/08/17 - 01/09/17 at TU Berlin.
+
+
+<h2 id="links">Links</h2>
+<ul>
+<li>
+<a href="http://www.ams.org/mathscinet/" class="int">MathSciNet</a>, <a href="http://www.sherpa.ac.uk/romeo/">SHERPA RoMEO</a>.</li>
+<li><a href="http://www.dfg-spp1590.de/" class="int">Schwerpunktprogramm 1590 "Probabilistic Structures in Evolution"		</a></li>
+<li><a href="https://www.kumulanten.uni-osnabrueck.de/" class="int">DFG scientific network: Cumulants, concentration and superconcentration.</a></li>
+<li><a href="http://www.fg-stochastik.de/">Fachgruppe Stochastik</a></li>
+
+</ul>
+
+
