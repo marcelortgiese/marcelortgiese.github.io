@@ -9,7 +9,8 @@ I am a Reader in Probability and a member of the
 <a href="http://www.bath.ac.uk/">University of Bath</a>.
 
 
-<h2 id="publications">Publications</h2>
+
+# Publications {#publications}
 
 <h3>Books</h3>
 
@@ -180,10 +181,9 @@ PDF</a></li>
 My articles on: <a href="https://arxiv.org/a/ortgiese_m_1.html">arxiv</a>, <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=INDI&s1=835679">MathSciNet</a>, <a href="https://scholar.google.co.uk/citations?hl=en&user=Uj2HxdAAAAAJ">Google Scholar</a>, <a href="https://orcid.org/0000-0001-7803-8584">Orcid</a>, <a href="https://researchportal.bath.ac.uk/en/persons/marcel-ortgiese/publications/">University of Bath researchportal</a>.
 
 
+# Research group {#group}
 
-<h2 id="people">Research Group</h2>
-
-<b> Current members:</b><br><br>
+<b> Current members:</b><br>
 
 PhD students
 <ul>
@@ -218,7 +218,7 @@ Postdocs
 
 
 
-<h2>Events</h2>
+# Events {#events}
 
 Current events: 
 
@@ -231,7 +231,8 @@ Past events:
 * Bath-Berlin summer school: <a href="https://www.math-berlin.de/academics/summer-schools/2017/randgraph">Probabilistic and statistical methods for networks</a>, 21/08/17 - 01/09/17 at TU Berlin.
 
 
-<h2 id="links">Links</h2>
+# Links {#links}
+
 <ul>
 <li>
 <a href="http://www.ams.org/mathscinet/" class="int">MathSciNet</a>, <a href="http://www.sherpa.ac.uk/romeo/">SHERPA RoMEO</a>.</li>
