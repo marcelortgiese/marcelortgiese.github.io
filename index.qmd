@@ -8,7 +8,9 @@ I am a Reader in Probability and a member of the
 <a href="http://www.bath.ac.uk/math-sci/">Department of Mathematical Sciences</a> at the 
 <a href="http://www.bath.ac.uk/">University of Bath</a>.
 
-
+I am currently member of the executive team of the [EPSRC CDT SAMBa](https://samba.ac.uk/).
+I am also PI of the EPSRC project "Interplay between geometry and randomness in fitness landscapes for expanding populations"
+    (with CoI <a href="https://people.bath.ac.uk/mir20">Matt Roberts</a>).
 
 # Publications {#publications}
 
