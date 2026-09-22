@@ -1,9 +1,8 @@
 ---
-title: "Contact"
+title: "Publications"
 ---
 
 
-# Publications {#publications}
 
 <h3>Books</h3>
 
